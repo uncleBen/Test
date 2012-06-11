@@ -1,0 +1,22 @@
+C:\Users\T61\AppData\Local\Temporary Projects\TestingInterface\bin\Debug\TestingInterface.exe
+C:\Users\T61\AppData\Local\Temporary Projects\TestingInterface\bin\Debug\TestingInterface.pdb
+C:\Users\T61\AppData\Local\Temporary Projects\TestingInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\T61\AppData\Local\Temporary Projects\TestingInterface\obj\x86\Debug\TestingInterface.DimBox.resources
+C:\Users\T61\AppData\Local\Temporary Projects\TestingInterface\obj\x86\Debug\TestingInterface.Form1.resources
+C:\Users\T61\AppData\Local\Temporary Projects\TestingInterface\obj\x86\Debug\TestingInterface.MemberBox.resources
+C:\Users\T61\AppData\Local\Temporary Projects\TestingInterface\obj\x86\Debug\TestingInterface.Properties.Resources.resources
+C:\Users\T61\AppData\Local\Temporary Projects\TestingInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\T61\AppData\Local\Temporary Projects\TestingInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\T61\AppData\Local\Temporary Projects\TestingInterface\obj\x86\Debug\TestingInterface.exe
+C:\Users\T61\AppData\Local\Temporary Projects\TestingInterface\obj\x86\Debug\TestingInterface.pdb
+D:\Biblioteki\Dropbox\BRAG\Solutions\TestingInterface\TestingInterface\obj\x86\Debug\TestingInterface.exe
+D:\Biblioteki\Dropbox\BRAG\Solutions\TestingInterface\TestingInterface\obj\x86\Debug\TestingInterface.pdb
+D:\Biblioteki\Dropbox\BRAG\Solutions\TestingInterface\TestingInterface\bin\Debug\TestingInterface.exe
+D:\Biblioteki\Dropbox\BRAG\Solutions\TestingInterface\TestingInterface\bin\Debug\TestingInterface.pdb
+D:\Biblioteki\Dropbox\BRAG\Solutions\TestingInterface\TestingInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Biblioteki\Dropbox\BRAG\Solutions\TestingInterface\TestingInterface\obj\x86\Debug\TestingInterface.DimBox.resources
+D:\Biblioteki\Dropbox\BRAG\Solutions\TestingInterface\TestingInterface\obj\x86\Debug\TestingInterface.Form1.resources
+D:\Biblioteki\Dropbox\BRAG\Solutions\TestingInterface\TestingInterface\obj\x86\Debug\TestingInterface.MemberBox.resources
+D:\Biblioteki\Dropbox\BRAG\Solutions\TestingInterface\TestingInterface\obj\x86\Debug\TestingInterface.Properties.Resources.resources
+D:\Biblioteki\Dropbox\BRAG\Solutions\TestingInterface\TestingInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Biblioteki\Dropbox\BRAG\Solutions\TestingInterface\TestingInterface\obj\x86\Debug\GenerateResource.write.1.tlog
